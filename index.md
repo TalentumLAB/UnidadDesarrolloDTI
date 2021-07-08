@@ -2,16 +2,25 @@
 
 ## Valle Magico
 ### Proyecto de educación inclusiva para el Valle del Cauca
-
+v1.0.6 | 2020
 [![ValleMagico](./LogoValleMagico.png "ValleMagico")](https://vallemagico.co)
 
 <!-- <img src="./LogoValleMagico.png" alt="drawing" width="50%"/> -->
 
 ## City Know Pro 2
 ### Proyecto de educación inclusiva para el Cauca
-
+v1.0.6 | 2020
 [![CityKnowPro2](./logocity.png "CityKnowPro2")](https://cityknowpro.com)
 
+
+
+
+
+># Ejemplo
+>## Proyecto
+>### Descripción
+>versión | año  
+>![alt](https://link)
 
 
 
