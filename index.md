@@ -18,11 +18,10 @@ v1.0.6 | 2020
 
 ## Survey Monkey
 ### Software de encuestas online por medio de un proveedor tercerizado
-[![logo](./surveymonkey.png "Survey Monkey")](https://es.research.net/r/5NXMYMT)
+[![logo](./surveymonkey.png "Survey Monkey")](https://es.research.net/r/5NXMYMT)  
 Para mayor información y solicitud de creación de encuestas, enviar un ticket a [Soporte DTI](https://soporte.talentum.edu.co/open.php) con Tema:
-- **Tema de Ayuda**: Desarrollo/Encuestas
-  
-Y describenos tu solicitud
+- **Tema de Ayuda**: Desarrollo/Encuestas  
+
 
 
 
