@@ -10,9 +10,19 @@ v1.0.6 | 2020
 ## City Know Pro 2
 ### Proyecto de educación inclusiva para el Cauca
 v1.0.6 | 2020
-[![CityKnowPro2](./logocity.png "CityKnowPro2")](https://cityknowpro.com)
+[![logo](./logocity.png "CityKnowPro2")](https://cityknowpro.com)
 
 
+
+
+
+## Survey Monkey
+### Software de encuestas online por medio de un proveedor tercerizado
+[![logo](./surveymonkey.png "Survey Monkey")](https://es.research.net/r/5NXMYMT)
+Para mayor información y solicitud de creación de encuestas, enviar un ticket a [Soporte DTI](https://soporte.talentum.edu.co/open.php) con Tema:
+- **Tema de Ayuda**: Desarrollo/Encuestas
+  
+Y describenos tu solicitud
 
 
 
@@ -20,7 +30,7 @@ v1.0.6 | 2020
 >## Proyecto
 >### Descripción
 >versión | año  
->![alt](https://link)
+>[![Imagen](imagelink "alt")](https://link)
 
 
 
